@@ -1,1 +1,2 @@
 # odin-recipes
+This project is used to practice writing HTMl by creating a recipe website. This project reminded me how important it is to commit frequently. This is because I often rush the process and forget to commit, which would possibly lead to disastrous outcomes if the project was bigger.
